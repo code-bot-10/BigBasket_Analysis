@@ -1,0 +1,5 @@
+outs:
+- md5: 50eca7beae74594a012eed6a4c49e76e
+  size: 18563367
+  hash: md5
+  path: Bigbasket_Scraped_Data.csv
