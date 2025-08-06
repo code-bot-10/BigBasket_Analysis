@@ -1,0 +1,5 @@
+outs:
+- md5: 19ec8a0ba5ce31252d0258c1b5459f1b
+  size: 17136939
+  hash: md5
+  path: cleaned_BigBasket_Products.csv
